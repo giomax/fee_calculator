@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+ul{
+    list-style:none;
+    width:100px;
+    margin:auto;
+    margin-top:50px;
+    li{
+        text-align: center;
+    }
+}
+h1{
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.input-group{
+    width:360px;
+    margin:auto;
+}
